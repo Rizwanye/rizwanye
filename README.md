@@ -17,5 +17,5 @@ Skills: Python Programming / Data Analytics / Visual Analytics / Machine Learnin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanye)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rizwanye)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rizwanye&show_icons=true)  
 
