@@ -14,4 +14,5 @@ Skills: Python Programming / Data Analytics / Visual Analytics / Machine Learnin
 # Examples of recent work
 <img src="https://github.com/Rizwanye/rizwanye/blob/main/project1.gif" width = "456" />
 
-
+# Github Statistics
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanye)](https://github.com/anuraghazra/github-readme-stats)
