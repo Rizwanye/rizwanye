@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Rizwan Ye.
-#### Feel Free To Check Out My Projects Below!
+# Hi there 👋, I'm Rizwan Ye.
+## Feel Free To Check Out My Projects Below!
 ![Feel Free To Check Out My Projects Below!](https://github.com/Rizwanye/rizwanye/blob/main/Banner%20Image.jpg?raw=true)
 
 I'm Rizwan Ye, I have an Honours degree in computing science, and Majored in **Artificial Intelligence and Data Analytics** from the University Of Technology Sydney. 
