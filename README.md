@@ -12,9 +12,6 @@ Skills: Python Programming / Data Analytics / Visual Analytics / Machine Learnin
 - 🌱 I’m currently learning XAI 
 - ⚡ Fun fact: Within 3 years I have used over 10 different laptops 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rizwanye)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanye)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rizwanye&show_icons=true)  
