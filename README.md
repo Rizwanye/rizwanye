@@ -12,6 +12,6 @@ Skills: Python Programming / Data Analytics / Visual Analytics / Machine Learnin
 - ⚡ Fun fact: Within 3 years I have used over 10 different laptops 
 
 # Examples of recent work
-<img src="https://github.com/Rizwanye/rizwanye/blob/main/project1.gif" />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanye)](https://github.com/anuraghazra/github-readme-stats)
 
