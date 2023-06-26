@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Rizwan Ye.
+# Hi there 👋, I'm Rizwan Ye.
 #### Feel Free To Check Out My Projects Below!
 ![Feel Free To Check Out My Projects Below!](https://github.com/Rizwanye/rizwanye/blob/main/Banner%20Image.jpg?raw=true)
 
