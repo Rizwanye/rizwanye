@@ -3,7 +3,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=000000&width=435&lines=Hi+There+%F0%9F%91%8B%2C+I'm+Rizwan+Ye.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=000000&width=435&lines=Hi+There+%F0%9F%91%8B%2C+I'm+Rizwan+Ye.)](https://git.io/typing-svg)
 
 I have an Honours degree in computing science, and Majored in **Artificial Intelligence and Data Analytics** from the University Of Technology Sydney. 
 
