@@ -12,7 +12,7 @@ In my honours degree I primarily focused on researching **Explainable artificial
 ### Python Packages I Have Experience With
 - Data Augmentation using **keras** and **torchvision**.
 - Data Visualization using **Matplotlib** and **Seaborn**.
-- Predictive Analytics/Machine Learning (Supervised/Unsupervised) using **Scikit-Learn**.
+- Predictive Analytics and Machine Learning (Supervised/Unsupervised) using **Scikit-Learn**.
 - Deep Learning with **TensorFlow**.
 - Web Development using **Flask**.
 
