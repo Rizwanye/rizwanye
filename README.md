@@ -9,14 +9,14 @@ I have an Honours degree in computing science, and Majored in **Artificial Intel
 
 In my honours degree I primarily focused on researching **Explainable artificial intelligence (XAI)** and **visual explainable artificial intelligence (VXAI)**, for the non-tech people out there, this research basically revolves around how we can make complex AI programs more understandable.
 
-Skills:
+### Python Packages I Have Experience With
 - Data Augmentation using **keras** and **torchvision**.
 - Data Visualization using **Matplotlib** and **Seaborn**.
 - Predictive Analytics/Machine Learning (Supervised/Unsupervised) using **Scikit-Learn**.
 - Deep Learning with **TensorFlow**.
 - Web Development using **Flask**.
 
-
+### About Me 
 - 🔭 I’m currently working on XAI and VAI with my supervisor 
 - 🌱 I’m currently learning XAI 
 - ⚡ Fun fact: Within 3 years I have used over 10 different laptops
