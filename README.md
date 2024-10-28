@@ -21,11 +21,5 @@ In my honours degree I primarily focused on researching **Explainable artificial
 - 🌱 I’m currently learning XAI 
 - ⚡ Fun fact: Within 3 years I have used over 10 different laptops
 
-# Examples of recent work
-<a href="https://github.com/Rizwanye/Military-Object-Detection">
-  <img src="https://github.com/Rizwanye/rizwanye/blob/main/project1.gif" width="456" />
-</a>
-
-
 # Github Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanye)](https://github.com/anuraghazra/github-readme-stats)
