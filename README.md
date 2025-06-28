@@ -1,5 +1,5 @@
 
-![Feel Free To Check Out My Projects Below!](https://github.com/Rizwanye/rizwanye/blob/main/Banner%20Image.jpg?raw=true)
+![Feel Free To Check Out My Projects Below!](https://github.com/Rizwanye/rizwanye/blob/main/16149.jpg?raw=true)
 
 <br>
 
